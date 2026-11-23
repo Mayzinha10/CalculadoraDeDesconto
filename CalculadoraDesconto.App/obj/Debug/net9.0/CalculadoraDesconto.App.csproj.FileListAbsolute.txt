@@ -1,0 +1,14 @@
+C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net9.0\CalculadoraDesconto.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net9.0\CalculadoraDesconto.App.AssemblyInfoInputs.cache
+C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net9.0\CalculadoraDesconto.App.AssemblyInfo.cs
+C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net9.0\CalculadoraDesconto.App.csproj.CoreCompileInputs.cache
+C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net9.0\CalculadoraDesconto.App.exe
+C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net9.0\CalculadoraDesconto.App.deps.json
+C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net9.0\CalculadoraDesconto.App.runtimeconfig.json
+C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net9.0\CalculadoraDesconto.App.dll
+C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.App\bin\Debug\net9.0\CalculadoraDesconto.App.pdb
+C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net9.0\CalculadoraDesconto.App.dll
+C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net9.0\refint\CalculadoraDesconto.App.dll
+C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net9.0\CalculadoraDesconto.App.pdb
+C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net9.0\CalculadoraDesconto.App.genruntimeconfig.cache
+C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net9.0\ref\CalculadoraDesconto.App.dll
