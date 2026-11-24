@@ -12,3 +12,4 @@ C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.A
 C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net9.0\CalculadoraDesconto.App.pdb
 C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net9.0\CalculadoraDesconto.App.genruntimeconfig.cache
 C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net9.0\ref\CalculadoraDesconto.App.dll
+C:\senai_diversos_mayara\AULASCSHARP03\CalculadoraDesconto\CalculadoraDesconto.App\obj\Debug\net9.0\CalculadoraDesconto.App.sourcelink.json
